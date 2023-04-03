@@ -12,15 +12,15 @@ summary: 驗證您的環境、網路存取、登入和網頁瀏覽器的支援�
 
 
 [role="lead"]
-請先確認您的作業環境、登入、網路存取和網頁瀏覽器是否就緒。
+首先、請確認您的營運環境、登入、網路存取和網頁瀏覽器是否準備就緒。
 
 若要使用作業恢復服務、您應該確保環境符合所有需求。
 
-* 您的環境必須符合所有的BlueXP要求、包括從網頁瀏覽器登入及網路存取。
+* 您的環境必須符合所有 BlueXP 需求、包括從網路瀏覽器登入和網路存取。
 +
-請參閱BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["入門檢查清單"]。
+請參閱 BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["入門檢查清單"^]。
 
-* 此服務要求所有叢集均由Digital Advisor（前身Active IQ Digital Advisor 為《The Digital Advisor》）監控。請參閱 https://docs.netapp.com/us-en/active-iq/index.html["數位顧問文件"]。
-* 您必須擁有叢集的存取認證資料。
-* 雖然並非必要、但如果已安裝並啟用了BlueXP Connector、ONTAP 而且發現了這個系統、這項功能就很有幫助。如果沒有、營運恢復服務會引導您完成這些程序。
+* 此服務要求所有叢集均由Digital Advisor（前身Active IQ Digital Advisor 為《The Digital Advisor》）監控。請參閱 https://docs.netapp.com/us-en/active-iq/index.html["數位顧問文件"^]。
+* 您必須擁有叢集的存取認證。
+* 雖然不是必要的、但如果 BlueXP Connector 已就緒並已啟用、而且 ONTAP 系統已被發現、則會很有幫助。如果沒有、營運恢復服務會引導您完成這些程序。
 

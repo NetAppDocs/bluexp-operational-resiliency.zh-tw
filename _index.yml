@@ -12,7 +12,7 @@ indexpage:
       url: "/get-started/quick-start.html"
     - title: 先決條件
       url: "/get-started/prerequisites.html"
-    - title: 登入BlueXP上的服務
+    - title: 登入 BlueXP 上的服務
       url: "/get-started/login.html"
     - title: 常見問題集
       url: "/get-started/faq.html"
@@ -30,7 +30,5 @@ indexpage:
     links:
     - title: NetApp社群
       url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
-    - title: 雲端分層部落格
-      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
     - title: 雲端網路研討會
       url: https://bluexp.netapp.com/events

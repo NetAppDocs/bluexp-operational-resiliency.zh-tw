@@ -20,7 +20,7 @@ summary: 如果您只是想要快速回答問題、這個常見問題集就能�
 
 *什麼是BlueXP營運恢復URL？*
 
-在瀏覽器中輸入URL： https://console.bluexp.netapp.com/[]
+對於 URL 、請在瀏覽器中輸入： https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^]
 
 
 
@@ -28,4 +28,4 @@ summary: 如果您只是想要快速回答問題、這個常見問題集就能�
 
 *您是否需要授權才能使用作業恢復服務？*
 
-不需要NetApp授權檔案（NLF）。
+不需要 NetApp 授權檔案（ NLF ）。

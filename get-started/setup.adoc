@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/setup.html 
 keywords: bluexp, operational resiliency, risk remediate 
-summary: 您不需要新增容量或層級的冷資料、也可以選擇目前不需要採取任何行動、並設定提醒提醒、讓自己在30、60或90天之後再次檢查。 
+summary: 您不需要新增容量或層級冷資料、現在可以選擇不需要採取任何行動、並設定提醒、讓自己在 30 、 60 或 90 天之後再次檢查。 
 ---
 = 設定作業恢復服務
 :hardbreaks:
@@ -23,7 +23,7 @@ summary: 您不需要新增容量或層級的冷資料、也可以選擇目前�
 
 
 
-== 在藍圖XP中建立連接器
+== 在 BlueXP 中建立 Connector
 
 BlueXP Connector包含NetApp ONTAP 支援機器的認證資料、因此營運恢復服務可針對安全風險提供建議、並執行修復作業。
 
@@ -33,8 +33,8 @@ BlueXP Connector包含NetApp ONTAP 支援機器的認證資料、因此營運恢
 
 
 
-== 探索BlueXP中的叢集
+== 探索 BlueXP 中的叢集
 
-設定的一部分涉及識別BlueXP內的叢集名稱、IP、使用者名稱和密碼。
+部分設定包括在 BlueXP 中識別叢集名稱、 IP 、使用者名稱和密碼。
 
 如需相關指示、請參閱所說明的BlueXP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["如何識別叢集"^]。
