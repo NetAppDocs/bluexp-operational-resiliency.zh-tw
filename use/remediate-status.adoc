@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-status.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 您可以隨時檢查補救狀態。您可以查看它是否正在執行、完成或失敗。 
+---
+= 檢閱修正狀態
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+您可以隨時檢查補救狀態。您可以查看它是否正在執行、完成或失敗。
+
+.步驟
+. 從BlueXP左側導覽中、選取* Health *>*營運恢復能力*>*修正狀態*。
++
+此時會顯示「修正狀態」頁面。
+
+. 若要查看問題的詳細資料、請選取問題加以展開。
+

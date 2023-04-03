@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律聲明</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">法律聲明提供版權聲明、商標、專利等存取權限。</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版權</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商標</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp 標誌及 NetApp 商標頁面上列出的標章均為 NetApp 、 Inc. 的商標。其他公司與產品名稱可能為其各自所有者的商標。</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">專利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">如需最新的 NetApp 擁有專利清單、請參閱：</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隱私權政策</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">開放原始碼</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知檔案提供有關 NetApp 軟體所使用之協力廠商版權與授權的資訊。</block>
+  <block id="93f94a3d0340c1183f3b9bcffb4a1f14" category="summary">如果您選取「修正」選項、服務就能為您實作補救。</block>
+  <block id="003848264a63687fa8d2ea1c33c5328e" category="doc">自動修正問題</block>
+  <block id="8f975edf5f7c8d6af5534a68ce11cccc" category="paragraph">如果您選取*修正*選項、該服務就能為您實作修正。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
+  <block id="3f513535e1c0c6b9d8e9af3d3f2088ec" category="list-text">從BlueXP左側導覽中、選取* Health *&gt;*營運恢復能力*&gt;* Risk Remediation *。</block>
+  <block id="1e19b0a3a63298e82247e47a78a5a04c" category="list-text">在「風險補救」頁面中、依「影響層級」欄位排序、以先查看最高風險。</block>
+  <block id="17c8eae6e44976b92d053c35007db63e" category="list-text">選取風險、然後選取*修正風險*。</block>
+  <block id="280ad2a6c6ac0a29776201ab7eb71cde" category="list-text">針對每個叢集、選取*修正*。</block>
+  <block id="2ff7e6e819d1c3351da49fb9076ea7f6" category="paragraph">視問題而定、系統會顯示相關指示。如果存在BlueXP Connector或已知叢集、則此頁面上的部分選項不會出現。</block>
+  <block id="216a481d8cb3895627e1a95211130d00" category="list-text">如果連接器不存在或尚未啟用、服務會顯示「Create a Connector」（建立連接器）頁面、您可以在其中建立連接器。如果連接器存在、但未處於作用中狀態、則必須在雲端供應商服務中啟用連接器。</block>
+  <block id="d29bda09bea50f3d6b0e9d9d61015179" category="inline-link">如何建立連接器</block>
+  <block id="40291a6d68f9d56082e18b104e31da91" category="paragraph">請參閱所述的BlueXP文件<block ref="9f721c04278fd77b52c3c474d81c42e1" category="inline-link-rx"></block>。</block>
+  <block id="82a3b3353123f51e6efb1de319a4a3af" category="list-text">如果叢集不存在、服務會顯示一個頁面、供您識別叢集。</block>
+  <block id="fd7ba781ed31347905680b56f58f3835" category="inline-link">如何識別叢集</block>
+  <block id="317827dd87942b7fbf964589a91148ef" category="paragraph">請參閱所說明的藍圖XP文件<block ref="b8d275f10ab05e7146bf09438bedc804" category="inline-link-rx"></block>。</block>
+  <block id="dc2ee7c9bfe56a12af0b4b38d766e214" category="list-text">部署連接器並探索叢集之後、請檢閱補救措施。</block>
+  <block id="7c770aba12cb31624e5a42e1c0b421d9" category="paragraph">如果您選取*修正*選項、讓服務為您實作修正、則會出現「檢閱並執行必要的修正」頁面。</block>
+  <block id="592899cba0155e8df6ff957e3c09bc55" category="list-text">檢閱風險及其他資訊。</block>
+  <block id="c226d28399dfd8c127b616b86c9d4fea" category="list-text">選擇*執行*。</block>
+  <block id="3d154ebb21caa4aba05ea76bee8d7155" category="paragraph">此動作會部署Connector（如果尚未完成）、探索叢集、下載修正程式、並在選取的叢集上自動實作修正程式。</block>
+  <block id="93460c4c841eaa048fba6761437facac" category="list-text">要查看修復修復的狀態，請在"Remediation Status（更新狀態）"頁面上記下該叢集名稱。</block>
+  <block id="8553b295905de8f0a1a9a8c380955c19" category="summary">您可以隨時檢查補救狀態。您可以查看它是否正在執行、完成或失敗。</block>
+  <block id="1f34564f7f268956b8ef3437c93fa501" category="doc">檢閱修正狀態</block>
+  <block id="3b7f158e5588dd8c8fbd83e64644ead3" category="list-text">從BlueXP左側導覽中、選取* Health *&gt;*營運恢復能力*&gt;*修正狀態*。</block>
+  <block id="c836b3c3af1e3ae322bae2582783e7fa" category="paragraph">此時會顯示「修正狀態」頁面。</block>
+  <block id="340aea35d361c9684857dffdfb0d4e34" category="list-text">若要查看問題的詳細資料、請選取問題加以展開。</block>
+  <block id="3f713c8f4e664d48eacc8df4f2395ab2" category="summary">風險補救服務可識別內部部署ONTAP 的叢集上的安全風險。</block>
+  <block id="71dfe4aa697335a7f919f97a8273c0b2" category="doc">檢閱安全風險問題</block>
+  <block id="8ced7aef65cbf7f975ce05495aaa7b5a" category="paragraph">審查風險並執行自動化補救、包括下列程序：</block>
+  <block id="e58b02e46b4a2ae158eeea3e4be06da2" category="list-text">在BlueXP中建立連接器（如果風險補救服務尚未存在連接器）。</block>
+  <block id="79ce14dc5f77cf8e0b4406ad7fa1b113" category="list-text">探索叢集（如果該服務尚不存在）。</block>
+  <block id="fc679714d6de762a8709e88fd77d9dd3" category="list-text">執行補救或下載可執行的教戰手冊。</block>
+  <block id="3d4a0bdc7753224ebf0b57c73a661a15" category="list-text">檢視修正狀態。</block>
+  <block id="f8d3a74379407197e7d61dec4f8cd3b3" category="list-text">在風險清單中、依「影響層級」欄位排序、以先查看最高風險。</block>
+  <block id="913ecc0beddc129e9609213e025ebec1" category="list-text">選取風險並查看其他詳細資料。</block>
+  <block id="def9ecedff7079d6d62e1e8ec68c8fb4" category="list-text">選擇*修正風險*。</block>
+  <block id="365d382b2d9ecca9b0d40171c69b38ff" category="list-text">執行下列其中一項：</block>
+  <block id="373bf4d3d886486e00480450ab8f99da" category="inline-link-macro">自動修正風險問題</block>
+  <block id="bfd3572da7deb352274b4218934dd2a5" category="paragraph">此動作會自動修正問題（在您選取*執行*以開始修正之後）。繼續 <block ref="155d1c925e456f5b01e8084a17198a9b" category="inline-link-macro-rx"></block>。</block>
+  <block id="dba780c086871839e271397a91a1168f" category="inline-link-macro">利用可執行的方針來補救風險問題</block>
+  <block id="1a72f3179a2856e66237e05940c8b2c4" category="list-text">若要使用可執行的方針自行修正問題、請選取*下載*。繼續 <block ref="2a3a4262efa2f3516dd5c7a1e58f2a52" category="inline-link-macro-rx"></block>。</block>
+  <block id="3d23dd2c04c9f13e9b274fad4db973ca" category="summary">NetApp BlueXP營運恢復服務使用AI來判斷安全風險。</block>
+  <block id="d829aa8182023eade7fc5b09a6e6db10" category="doc">審查並修正安全風險問題</block>
+  <block id="fcd5b3eaba8e2d3ad1a6bd2e634c0fa8" category="paragraph">作業恢復服務可讓您檢閱與韌體問題相關的安全風險、並實作修復。</block>
+  <block id="1500b69b05c684f2bff6fef6c269da7e" category="paragraph">系統或節點層級提供建議。</block>
+  <block id="ef332fe59155dbbe05afbc8237b6c2f0" category="paragraph">在審查風險之後、您可以透過兩種方式補救這些風險：</block>
+  <block id="c59d31dbfc067528382d67deadc6809e" category="list-text">請服務執行修正、以修正問題。</block>
+  <block id="65b6ec319cba2b39d4b8f1261e5f65d2" category="list-text">下載可執行的方針、這是開放原始碼部署系統、可讓您執行組態工作、並執行方針中建議的行動。</block>
+  <block id="4c9ea87870070d09e4bdab8c3f322d31" category="paragraph">使用作業恢復服務、您可以達成下列目標：</block>
+  <block id="d3fac19c124804d1e84db71213df90a4" category="list-text"><block ref="d3fac19c124804d1e84db71213df90a4" category="inline-link-macro-rx"></block></block>
+  <block id="509a2fbcd8e8c4f65019e011c9fc5135" category="inline-link-macro">自動修正</block>
+  <block id="64910b3c333d96f1f4e6bd6ba9321283" category="list-text"><block ref="64910b3c333d96f1f4e6bd6ba9321283" category="inline-link-macro-rx"></block></block>
+  <block id="c78342d84163fecab0430a24ae5c3f66" category="inline-link-macro">使用Ansible教戰手冊進行補救</block>
+  <block id="d5d41b0abde9c0464ce21dfde2d0f924" category="list-text"><block ref="d5d41b0abde9c0464ce21dfde2d0f924" category="inline-link-macro-rx"></block></block>
+  <block id="3b5fe5976d02afb3d65a1ee5e8bc5181" category="inline-link-macro">判斷風險補救狀態</block>
+  <block id="206f76bf015b0ee7560944906237a712" category="list-text"><block ref="206f76bf015b0ee7560944906237a712" category="inline-link-macro-rx"></block></block>
+  <block id="0f397eb61b6ce23b9cff366eb1c10b70" category="summary">您可以檢閱安全風險、並下載可執行的方針、以便修正問題。</block>
+  <block id="9c8a525d96cfdf66cd2fd3c3c4a0e551" category="paragraph">您可以下載Ansible教戰手冊、這是一款開放原始碼部署系統、可讓您執行組態工作。若要使用Ansible、只要執行教戰手冊檔案、就能使用儲存在同一個目錄中的庫存和輔助程式檔案。</block>
+  <block id="d59db7846bd10b6d60d21543df9faa9e" category="paragraph-title">您需要的產品</block>
+  <block id="a88347b2867db6da580a55a163a875e6" category="paragraph">系統必須能夠透過網路存取叢集IP、才能執行Ansible教戰手冊。</block>
+  <block id="5506f82eb665f11d97b1671ac345f166" category="list-text">若要下載可讓您自行修正問題的教戰手冊、請選取*下載*。</block>
+  <block id="86e5f57e6fdba2be96d6faaaf00a41a8" category="paragraph">該服務會將「Ansible」方針安裝到您選擇的本地機器上。該教戰手冊會以壓縮檔形式下載、其中包含數個YML檔案。</block>
+  <block id="c408055d4edd96a49ac810fd4764affc" category="list-text">在下載資料夾中找到「Ansible playbook（可執行教戰手冊）」。</block>
+  <block id="29d584c9d232f2751e0d7736264cde6f" category="list-text">執行Ansible教戰手冊：</block>
+  <block id="c3ee5ddf91e65773d3e9d27f9e627350" category="inline-link">Ansible文件</block>
+  <block id="7d6268b9dc6ee19857991d4f88f50bdf" category="paragraph">如需如何使用Ansible教戰手冊的說明、請參閱<block ref="2f1345580118e2956f2276fe8e08e989" category="inline-link-rx"></block>。</block>
+  <block id="30a894e91a8af680e08e44c220c86292" category="list-text">請遵循本方針中的指示。</block>
+  <block id="ee4f79267b9b721be99108c15cc25314" category="summary">營運恢復能力是一種服務類別、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。使用營運恢復能力的風險補救服務及其自動化的IT作業補救建議、您可以在發生中斷或故障之前、實作建議的補救措施。</block>
+  <block id="fd6bebcfb34c38b868e5a7e0dd8fde4e" category="doc">營運恢復服務</block>
+  <block id="d31c2f400069ae7ed5d8d417be7e408f" category="summary">驗證您的環境、網路存取、登入和網頁瀏覽器的支援、開始使用BlueXP作業恢復功能。</block>
+  <block id="c08c16ebaae52a216a6bdc1f3d6a4f8c" category="doc">營運恢復能力的先決條件</block>
+  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">請先確認您的作業環境、登入、網路存取和網頁瀏覽器是否就緒。</block>
+  <block id="9bd9926830b47ac6a79518657cd0c311" category="paragraph">若要使用作業恢復服務、您應該確保環境符合所有需求。</block>
+  <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">您的環境必須符合所有的BlueXP要求、包括從網頁瀏覽器登入及網路存取。</block>
+  <block id="5b13c2584f8e7be6ddae81fa76b103bc" category="inline-link">入門檢查清單</block>
+  <block id="ec9789225ae7aac04cc60b035ede5646" category="paragraph">請參閱BlueXP<block ref="390066789dae200d18de69ad3c85d8e1" category="inline-link-rx"></block>。</block>
+  <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">數位顧問文件</block>
+  <block id="61af071e06d987945eac83349fe4bac9" category="list-text">此服務要求所有叢集均由Digital Advisor（前身Active IQ Digital Advisor 為《The Digital Advisor》）監控。請參閱<block ref="f2e318b984927d4781fb278ddc8ba233" category="inline-link-rx"></block>。</block>
+  <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">您必須擁有叢集的存取認證資料。</block>
+  <block id="a957b5f46307a4beeefa3727aab84ac1" category="list-text">雖然並非必要、但如果已安裝並啟用了BlueXP Connector、ONTAP 而且發現了這個系統、這項功能就很有幫助。如果沒有、營運恢復服務會引導您完成這些程序。</block>
+  <block id="8996677d91a175f8986c9fb086d0a019" category="summary">您不需要新增容量或層級的冷資料、也可以選擇目前不需要採取任何行動、並設定提醒提醒、讓自己在30、60或90天之後再次檢查。</block>
+  <block id="53b2a3888d74c6060ad749e8cd50f3cc" category="doc">設定作業恢復服務</block>
+  <block id="eb1f1072afdeaf925ee8a49c27da36a6" category="paragraph">使用營運恢復服務的第一步、是讓環境中的監控工具提供資料。</block>
+  <block id="aeef00e38ed51f22706d62c2a0ab5668" category="paragraph">設定服務包括下列步驟：</block>
+  <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">先決條件</block>
+  <block id="230a6470f3b56faa66817a00760e17ee" category="list-text">檢閱 <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 確保您的環境已就緒</block>
+  <block id="c5830b9c873a2695b82be495158e2d0f" category="list-text">您也可以在使用服務之前、在BlueXP中建立連接器</block>
+  <block id="8b6359316fcd0e79bcc63e44fde4f177" category="list-text">在使用服務之前、您也可以選擇在BlueXP中探索叢集</block>
+  <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">在藍圖XP中建立連接器</block>
+  <block id="12c974d821c2a657f06d04bb173ce05d" category="paragraph">BlueXP Connector包含NetApp ONTAP 支援機器的認證資料、因此營運恢復服務可針對安全風險提供建議、並執行修復作業。</block>
+  <block id="7035adff8b1382b7935ca5ea77976a02" category="paragraph">您可以直接在BlueXP中建立連接器、並在作業恢復服務中使用該連接器。或者、您也可以開始查看叢集的程序、並在該程序的中間部署Connector。</block>
+  <block id="a5aa4a9277b83c0c529e9cebd0e88464" category="paragraph">若要在使用服務之前在BlueXP中建立連接器、請參閱所述的藍圖XP文件<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
+  <block id="8cb57f3692a9a95873b528375ca802ad" category="section-title">探索BlueXP中的叢集</block>
+  <block id="6ac16908cedf4f30facecaf3b473c7de" category="paragraph">設定的一部分涉及識別BlueXP內的叢集名稱、IP、使用者名稱和密碼。</block>
+  <block id="77edd12846ceca08a63e1059865b1044" category="paragraph">如需相關指示、請參閱所說明的BlueXP文件<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>。</block>
+  <block id="08a1c8c8efa0dcbbd69a866487cb6095" category="summary">存取BlueXP中的服務、開始使用作業恢復服務。</block>
+  <block id="4bffe1140d12eeb81b9e080b0ff35d8d" category="doc">存取BlueXP中的作業恢復服務</block>
+  <block id="43df50f2400dc0718ce6b2d1c64e3a13" category="paragraph">您可以登入NetApp BlueXP來使用營運恢復服務。</block>
+  <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">深入瞭解登入</block>
+  <block id="3278cb74d1a55e8490b54ad36d8d8932" category="paragraph">若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。<block ref="0ebbf5f315e843babc1bfedbc37bc7a5" category="inline-link-rx"></block>。</block>
+  <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">BlueXP主控台</block>
+  <block id="36c53a7c1d567e72b555e7c672926fcc" category="list-text">開啟網頁瀏覽器、前往<block ref="c7cac890d256b6982a3b913952a758f2" category="inline-link-rx"></block>。</block>
+  <block id="753e3c2055278365db83b605f29d4860" category="paragraph">此時將顯示NetApp BlueXP登入頁面。</block>
+  <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">登入BlueXP。</block>
+  <block id="30a806d095989a4cd374d05f16b397d2" category="list-text">從BlueXP左側導覽中、選取* Health *&gt;*營運恢復能力*。</block>
+  <block id="6b8ca4480e86b37ac8094418798793ad" category="summary">只需幾個步驟、即可開始使用NetApp BlueXP作業恢復服務。</block>
+  <block id="050bdb33d21b55499cded08599e171f0" category="doc">快速啟動營運恢復服務</block>
+  <block id="ac0de9ac56255db14daf80267b0e4e5c" category="paragraph">以下是開始使用NetApp BlueXP作業恢復服務所需的步驟總覽。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。</block>
+  <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">一</block>
+  <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> 檢閱先決條件</block>
+  <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">確保您的環境符合這些要求</block>
+  <block id="ced4b743323450a7e7e56480339ef345" category="paragraph"><block ref="3ad9f09af84a8cf38e8d4dc8f0c46658" category="inline-link-macro-rx"></block>。</block>
+  <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">二</block>
+  <block id="fb8982c5d00e543224efa2ac70a820aa" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 設定作業恢復服務</block>
+  <block id="cc6726e02ea7bc25f1ed413652107bdb" category="inline-link-macro">完成設定服務的步驟</block>
+  <block id="8945930be6c7ec09e7411ef60b953505" category="paragraph"><block ref="ee9c1a6028084ebc22aa7d8247808a40" category="inline-link-macro-rx"></block>。</block>
+  <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">三</block>
+  <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> 接下來呢？</block>
+  <block id="19ceaf81f50456bdfe6fb1329956f3bc" category="paragraph">完成服務設定之後、接下來您可以做什麼。</block>
+  <block id="aa8d0cec3b55028965e2b85d19c7be28" category="list-text"><block ref="1e5b83b9aa813937f4a97f0d9de4eabb" category="inline-link-macro-rx"></block>。</block>
+  <block id="5b827b62bd5c6670127f02a22cdeae4b" category="list-text"><block ref="f6aff0b119f503029db83af3a48d170e" category="inline-link-macro-rx"></block>。</block>
+  <block id="2917b1025bbb9c3686b91e471db99651" category="inline-link-macro">利用可執行的方針來補救</block>
+  <block id="daa30aaf6281023aee56e56db8ce96fb" category="list-text"><block ref="a7e3b23a1f3f74fcdbdc771d0ce3464a" category="inline-link-macro-rx"></block>。</block>
+  <block id="88423fe6213085494239f6ce5cbf5e7d" category="list-text"><block ref="b26664155e4669de3894cf4ef5b3d8a0" category="inline-link-macro-rx"></block>。</block>
+  <block id="4bc36b94d13916f64255f9c6f54ad51e" category="doc">瞭解營運恢復服務</block>
+  <block id="cdf4fac12fa59bdc6554cf531c298474" category="paragraph">風險補救是一項針對BlueXP的服務、可根據ONTAP NetApp Digital Advisor Active IQ （前身為《》）指引、對NetApp的各種叢集進行補救。服務會偵測安全性弱點、例如韌體和軟體組態問題。</block>
+  <block id="605e84eff6f220f2e648f18326caeb08" category="section-title">使用作業恢復服務的效益</block>
+  <block id="60232dbbfa24ad62739a39cde4e86d5b" category="paragraph">營運恢復服務提供下列優點：</block>
+  <block id="62540663380c02ec00b1e7931e30617d" category="list-text">叢集上的自動化修正程序</block>
+  <block id="51bbd775f32eafc27c0054ece81c6916" category="list-text">儀表板中的摘要檢視、顯示每項風險補救的狀態</block>
+  <block id="3a9852c45e2e43edbcefa9f74bf72fbb" category="list-text">可讓您追蹤所採取不同行動的記錄</block>
+  <block id="24ec8b62b98d08eefe3e1005befd6c32" category="section-title">您可以如何使用作業恢復服務</block>
+  <block id="fbc467aaaef72571b69362ffd793b980" category="paragraph">使用作業恢復服務、您可以達成下列目標：</block>
+  <block id="e602de70104e7a6058d5ee89495ff842" category="list-text">使用自動化的工作流程、協助您偵測影響儲存環境的風險、並採取行動予以緩解。</block>
+  <block id="f7551fc8ea0fd358f71f9e67b147781f" category="list-text">檢閱並根據作業建議採取行動、例如與安全性弱點相關的問題。</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
+  <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp不會收取您使用服務的費用。</block>
+  <block id="eb1f65bb1b774d1bd2f00607a58f102c" category="section-title">支援的環境</block>
+  <block id="429885a62ce0c77395b945842226a4cc" category="paragraph">營運恢復服務會分析內部部署的NetApp ONTAP 產品組合。</block>
+  <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">如果您只是想要快速回答問題、這個常見問題集就能幫上忙。</block>
+  <block id="0e47e65f6f1da96b296d1bb3be658363" category="doc">作業恢復服務的常見問題集</block>
+  <block id="424543a58732f42fd5482c0f9a373994" category="section-title">存取作業恢復服務</block>
+  <block id="3d30fb9c1a3cbc7318effaf7886fd510" category="paragraph">*什麼是BlueXP營運恢復URL？*</block>
+  <block id="b962278bb795a7ad8f07e7eca506985f" category="paragraph">在瀏覽器中輸入URL：<block ref="f3ce75e13c42a18a2722e4f79bc3b004" category="inline-link-rx"></block></block>
+  <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">授權</block>
+  <block id="7cb38122a2ccc3592b97f5655d3c4080" category="paragraph">*您是否需要授權才能使用作業恢復服務？*</block>
+  <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">不需要NetApp授權檔案（NLF）。</block>
+  <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp以多種方式提供對BlueXP的支援。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">取得協助</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp以多種方式支援BlueXP及其雲端服務。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">使用自我支援選項</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">這些選項可供免費使用、一天24小時、一週7天：</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知識庫</block>
+  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">請搜尋BlueXP知識庫、找出有助於疑難排解問題的文章。</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社群</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">歡迎加入BlueXP社群、以追蹤後續討論或建立新討論。</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文件</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">您目前正在檢視的BlueXP文件。</block>
+  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto：ng-cloudmanager-feedback@netapp.com [意見反應電子郵件]</block>
+  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">我們非常重視您的意見。提交意見反應、協助我們改善藍圖。</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">利用NetApp支援建立案例</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述的自我支援選項、您也可以在啟動支援之後、與NetApp支援專家合作解決任何問題。</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">開始之前</block>
+  <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">瞭解如何註冊以取得支援</block>
+  <block id="1012a287397c66025d7748edf06a36e2" category="paragraph">若要使用*建立案例*功能、您必須先執行一次性註冊您的BlueXP帳戶ID序號（例如960xxxx）。 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>。</block>
+  <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">在BlueXP中、按一下*「說明」&gt;「支援」*。</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在「*資源*」頁面上、選擇「技術支援」下的其中一個可用選項：</block>
+  <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">如果您想與電話上的其他人通話、請按一下*「呼叫我們*」。您將會被導向netapp.com上的頁面、其中列出您可以撥打的電話號碼。</block>
+  <block id="5be2e1dfe4bf215289731df45ec8157b" category="list-text">按一下*建立案例*、與NetApp支援專家一起開啟問題單：</block>
+  <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">*《支援帳戶*》：選取與開立支援案例的人員相關的適用的NSS帳戶。NetApp 支援網站除了以下提供的其他電子郵件之外、此人將是NetApp聯絡的主要聯絡人。</block>
+  <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">如果您看不到您的NSS帳戶、可以瀏覽至BlueXP「Support（支援）」區段中的「* nssn* Management（* nssnss管理*）」索引標籤、將其新增至該處。</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*服務*：選取問題相關的服務。例如、特定於服務工作流程或功能的技術支援問題的BlueXP。</block>
+  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*工作環境*：如果適用於儲存設備、請選取* Cloud Volumes ONTAP 《*》或*《內部部署*》、然後選取相關的工作環境。</block>
+  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">工作環境清單位於您在服務的最上層橫幅中所選的BlueXP帳戶、工作區和Connector範圍內。</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*案例優先順序*：選擇案例的優先順序、可以是低、中、高或嚴重。</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">若要深入瞭解這些優先順序、請將滑鼠游標暫留在欄位名稱旁的資訊圖示上。</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*問題說明*：提供問題的詳細說明、包括任何適用的錯誤訊息或您執行的疑難排解步驟。</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*其他電子郵件地址*：如果您想讓其他人知道此問題、請輸入其他電子郵件地址。</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*附件（選用）*：一次上傳最多五個附件。</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每個檔案的附件上限為25 MB。支援下列副檔名：TXT、log、pdf、JP/JPEG、rtf、 DOC/docx、xls/xlsx及csv.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">「建立案例」表單的快照、可讓您使用NetApp支援建立案例。</block>
+  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">您的支援案例編號會出現快顯視窗。NetApp支援專家將會審查您的案例、並盡快回覆您。</block>
+  <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">如需支援案例的記錄、請按一下*設定&gt;時間軸*、然後尋找名為「create support case」的行動。 最右側的按鈕可讓您展開動作以查看詳細資料。</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">嘗試建立案例時、可能會遇到下列錯誤訊息：</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"您無權針對所選服務建立案例"</block>
+  <block id="fa6b601b2fb4e3e5c7b466ecb8bd70ac" category="paragraph">此錯誤可能表示、與該帳戶相關聯的NSS帳戶及記錄公司與BlueXP帳戶序號的記錄公司不同（例如960xxxx)或工作環境序號。您可以在「建立案例*」表單頂端查看您的NSS帳戶清單、以找出最適合的項目、或使用下列其中一個選項尋求協助：</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">使用產品內對談</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">請至提交非技術案例<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">管理支援案例（預覽）</block>
+  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">您可以直接從BlueXP檢視及管理作用中和已解決的支援案例。您可以管理與您的NSS帳戶和貴公司相關的個案。</block>
+  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">案例管理可透過預覽取得。我們計畫改善這項體驗、並在即將推出的版本中加入增強功能。請使用產品內建聊天功能、向我們傳送意見反應。</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">請注意下列事項：</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">頁面頂端的案例管理儀表板提供兩種檢視：</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">左側檢視顯示您所提供的使用者nssc帳戶在過去3個月內開啟的個案總數。</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">右側檢視顯示過去3個月內、貴公司層級根據您的使用者nssc帳戶所開啟的個案總數。</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">表格中的結果會反映您所選檢視的相關個案。</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">您可以新增或移除感興趣的欄、也可以篩選優先順序和狀態等欄的內容。其他欄則只提供排序功能。</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">如需詳細資料、請參閱下列步驟。</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">在個別案例層級、我們提供更新案例附註或關閉尚未處於「已結案」或「待結案」狀態的案例的功能。</block>
+  <block id="34b1296d31cefa72dae9b3a364b1f444" category="list-text">按一下*個案管理*、如果出現提示、請將您的NSS帳戶新增至藍圖XP。</block>
+  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">「*個案管理*」頁面會顯示與您的BlueXP使用者帳戶相關聯的與NSS帳戶相關的未決個案。這是顯示在「* nssnmanagement *」頁面頂端的相同nss.帳戶。</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">（可選）修改表格中顯示的資訊：</block>
+  <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">在*組織案例*下、按一下*檢視*以檢視與貴公司相關的所有案例。</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">選擇確切的日期範圍或選擇不同的時間範圍、以修改日期範圍。</block>
+  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">案例管理頁面上方表格上方選項的快照、可讓您選擇確切的日期範圍或過去7天、30天或3個月。</block>
+  <block id="7fcba8aeefa9960d3fc3fa08b360ba2e" category="paragraph"><block ref="7fcba8aeefa9960d3fc3fa08b360ba2e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">篩選欄的內容。</block>
+  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">「狀態」欄中篩選選項的快照、可讓您篩選出符合特定狀態（例如「作用中」或「已關閉」）的個案。</block>
+  <block id="37709be3a43df07d5975287545d0ba12" category="paragraph"><block ref="37709be3a43df07d5975287545d0ba12" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">出現在表格中的加號圖示</block>
+  <block id="1614dc8e47c0492434152c990d6c1040" category="list-text">按一下以變更表格中顯示的欄 <block ref="effeab06130cddc8360822b2b706805b" category="inline-image-macro-rx" type="image"></block> 然後選擇您要顯示的欄。</block>
+  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">顯示可在表格中顯示之欄的快照。</block>
+  <block id="5de408d7cbad49634fb25f9047498132" category="paragraph"><block ref="5de408d7cbad49634fb25f9047498132" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">表格最後一欄中出現三個點的圖示</block>
+  <block id="98efef1c8a47ed5791b41944e8ff4ec2" category="list-text">按一下即可管理現有案例 <block ref="a0b152b50a56901a75affebabc26ed61" category="inline-image-macro-rx" type="image"></block> 並選擇其中一個可用選項：</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*檢視案例*：檢視特定案例的完整詳細資料。</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*更新案例備註*：提供問題的其他詳細資料、或選擇*上傳檔案*最多附加五個檔案。</block>
+  <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*結案案例*：提供結案原因的詳細資料、然後按一下*結案案例*。</block>
+  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">螢幕擷取畫面、顯示您在表格最後一欄選取功能表後可以採取的動作。</block>
+  <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="243263104c829e77835d632f591230d5" category="summary">在您透過NetApp技術支援開啟支援案例之前、您必須先在NetApp 支援網站 BlueXP中新增一個支援帳戶、然後註冊以取得支援。</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">註冊以取得支援</block>
+  <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">在您透過NetApp技術支援開啟支援案例之前、您必須先在NetApp 支援網站 BlueXP中新增一個支援（NSS）帳戶、然後註冊以取得支援。</block>
+  <block id="0375f4855be072c7d856a0233cc21de9" category="section-title">支援雲端供應商解決方案</block>
+  <block id="be845c219bb74b14349ffa6e27e7aef3" category="paragraph">如需您已整合至BlueXP的下列雲端供應商解決方案的技術支援、請參閱該產品的藍圖XP文件中的「取得協助」。</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX for ONTAP Sf</block>
+  <block id="5bf5309465f91318228a7f956b826348" category="list-text"><block ref="5bf5309465f91318228a7f956b826348" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
+  <block id="0e2bc9c853e0af52ead12823c025e58b" category="list-text"><block ref="0e2bc9c853e0af52ead12823c025e58b" category="inline-link-macro-rx"></block></block>
+  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">適用於 Google Cloud Cloud Volumes Service</block>
+  <block id="02efcbea18b9485a78a41871dce1e64d" category="list-text"><block ref="02efcbea18b9485a78a41871dce1e64d" category="inline-link-macro-rx"></block></block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支援登錄總覽</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">有兩種登錄形式可啟動支援服務權利：</block>
+  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">註冊您的BlueXP帳戶ID支援訂閱（您的20位數960xxxxxxx序號位於BlueXP的「Support Resources（支援資源）」頁面）。</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">這是您在BlueXP內任何服務的單一支援訂閱ID。每個BlueXP帳戶層級的支援訂閱都必須註冊。</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">在Cloud Volumes ONTAP 雲端供應商的市場中註冊與訂閱相關的支援服務序號（這些序號為20位數909601xxxxxxxx序號）。</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">這些序號通常稱為「_PAYGO」序號、並在Cloud Volumes ONTAP 部署時由BlueXP產生。</block>
+  <block id="9d4125dc88bb9db6eb4be939905761ce" category="paragraph">註冊這兩種類型的序號、即可開啟支援服務單和自動建立個案。</block>
+  <block id="98bc603dcb6d5a57d540b13b541fa41a" category="paragraph">您的註冊方式取決於您是新客戶或現有客戶或合作夥伴。</block>
+  <block id="e5646198d2e01aab2cec9ef946f9c53a" category="list-text">現有客戶或合作夥伴</block>
+  <block id="76928f97884b4332b83c5be9b99d93d3" category="paragraph">身為現有的NetApp客戶或合作夥伴、您可以使用NetApp 支援網站 您的畫面（NSS）SSO帳戶執行上述登錄。在「支援儀表板」中、BlueXP提供一個* nssn*管理*頁面、您可以在其中新增您的nssa帳戶。新增您的NSS帳戶後、BlueXP會自動為您註冊這些序號。</block>
+  <block id="4e6af37fb81d50483d832d4de6e2b26a" category="inline-xref">瞭解如何新增您的NSS帳戶</block>
+  <block id="8d80298f51b7ff2da78e26e60195c7a3" category="paragraph"><block ref="cbec7c1a4a2acff5e84457dd449ac01d" category="inline-xref-macro-rx"></block>。</block>
+  <block id="1c91f3adc957364cb01d33e100ee1ea3" category="list-text">NetApp新推出</block>
+  <block id="679f2cae4657f177cc89458d49c97e5f" category="paragraph">如果您是NetApp的新客戶、您必須在NetApp的支援註冊網站上完成一次性註冊您的BlueXP帳戶ID序號。完成此註冊並建立新的NSS帳戶之後、您就可以在BlueXP中使用此帳戶自動註冊、以便繼續進行。</block>
+  <block id="00fc9d0c515c69ea2c368521453d982e" category="inline-xref">瞭解如何向NetApp註冊</block>
+  <block id="97454ce87333f7ebd50ee38b8126fb39" category="paragraph"><block ref="37544f11913357c4e8c8a4ec607ae247" category="inline-xref-macro-rx"></block>。</block>
+  <block id="a92ec860f505b318fd0f0eba6165d607" category="section-title">新增一個NSS帳戶至藍圖XP</block>
+  <block id="f2575f6d19024f7288cf78d7dc5b3db9" category="paragraph">「支援儀表板」可讓您新增及管理NetApp 支援網站 搭配BlueXP使用的支援帳戶。</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">如果您有客戶層級的帳戶、可以新增一或多個NSS帳戶。</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">如果您有合作夥伴或經銷商帳戶、您可以新增一或多個NSS帳戶、但這些帳戶無法與客戶層級帳戶一起新增。</block>
+  <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">在BlueXP主控台右上角、按一下「說明」圖示、然後選取「*支援*」。</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">「說明」功能表的快照、其中「支援」是第一個列出的選項</block>
+  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">按一下「*」「nss管理」&gt;「新增nssAccount」*。</block>
+  <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">出現提示時、按一下*繼續*以重新導向至Microsoft登入頁面。</block>
+  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp使用Microsoft Azure Active Directory做為身分識別供應商、提供專為支援與授權所設計的驗證服務。</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">在登入頁面上，提供您的 NetApp 支援網站註冊電子郵件地址和密碼，以執行身分驗證程序。</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">這些行動可讓BlueXP將您的nssa帳戶用於授權下載、軟體升級驗證、以及未來的支援註冊等項目。</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">NSS-帳戶必須是客戶層級的帳戶（而非來賓帳戶或暫存帳戶）。您可以擁有多個客戶層級的NSS帳戶。</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">如果該帳戶是合作夥伴層級帳戶、則只能有一個NSS帳戶。如果您嘗試新增客戶層級的NSS帳戶、但有合作夥伴層級的帳戶存在、您會收到下列錯誤訊息：</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">「此帳戶不允許使用新增服務客戶類型、因為已經有不同類型的新增服務使用者。」</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">如果您擁有預先存在的客戶層級的NSS帳戶、並嘗試新增合作夥伴層級的帳戶、情況也是如此。</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">成功登入後、NetApp會儲存NSS.使用者名稱。</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">三個橫點的圖示</block>
+  <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">這是系統產生的ID、會對應至您的電子郵件。在「* nssn*管理*」頁面上、您可以從顯示電子郵件 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
+  <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">如果您需要重新整理登入認證憑證權杖、也可以在中使用*更新認證*選項 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">使用此選項會提示您重新登入。請注意、這些帳戶的權杖會在90天後過期。系統會張貼通知、提醒您注意此點。</block>
+  <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">向NetApp註冊</block>
+  <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">您如何註冊NetApp支援取決於您是否已擁有NetApp 支援網站 一個NetApp（NSS）帳戶。</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">現有的客戶、擁有一個新服務客戶帳戶</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">如果您是擁有NSS帳戶的NetApp客戶、您只需透過BlueXP註冊即可獲得支援。</block>
+  <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">如果您尚未這麼做、請將您的NSS帳戶新增至藍圖XP。</block>
+  <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">在*資源*頁面上、按一下*註冊以取得支援*。</block>
+  <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">顯示帳戶序號和「Register for Support」（註冊支援）選項的快照</block>
+  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">現有客戶、但無NSS.帳戶</block>
+  <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">如果您是現有的NetApp客戶、擁有現有授權和序號、但_否_ nss_帳戶、您只需要建立一個nss.帳戶。</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">《使用者登錄表》NetApp 支援網站</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">完成建立NetApp 支援網站 一個不完善的帳戶<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">請務必選擇適當的使用者層級、通常為* NetApp客戶/終端使用者*。</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">請務必複製上述序號欄位使用的BlueXP帳戶序號（960xxxx）。這將加速帳戶處理。</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp全新推出</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客戶、而且您沒有新的NSS帳戶、請依照下列每個步驟操作。</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">從「Support Registration（支援註冊）」頁面找到您的帳戶ID序號。</block>
+  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp的支援註冊網站</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">瀏覽至<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 並選擇*我不是NetApp註冊客戶*。</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填寫必填欄位（紅色星號）。</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">在*產品系列*欄位中、選取* Cloud Manager*、然後選取適用的帳單供應商。</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">複製上述步驟2的帳戶序號、完成安全性檢查、然後確認您已閱讀NetApp的全球資料隱私權政策。</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">系統會立即將電子郵件傳送至提供的信箱、以完成此安全交易。如果驗證電子郵件在幾分鐘內未送達、請務必檢查您的垃圾郵件資料夾。</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">確認電子郵件中的行動。</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">確認將您的申請提交給NetApp、並建議您建立NetApp 支援網站 一個申請表。</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">請務必複製上述序號欄位使用的帳戶序號（960xxxx）。這將加速帳戶處理。</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此過程中、NetApp應與您聯絡。這是新使用者的一次性就職練習。</block>
+  <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">一旦擁有NetApp 支援網站 您的不二帳戶、您就可以瀏覽至BlueXP、新增此新的NSS-帳戶以供日後登錄。</block>
+  <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">已知限制指出此服務版本不支援的平台、裝置或功能、或是無法與服務正確互通的平台、裝置或功能。</block>
+  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
+  <block id="d13b251ada2cfb6aeec1f3c123d852e8" category="summary">瞭解營運恢復服務的新功能。</block>
+  <block id="490414e0366b091220802d406e52c076" category="doc">新功能</block>
+  <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023年4月2日</block>
+  <block id="1630a937eacb69072b241ed94c9fd786" category="paragraph">使用新的營運恢復服務及其自動化IT營運風險補救建議、您可以在發生中斷或故障之前、實作建議的補救措施。</block>
+  <block id="ccdc113a6d04ad73b22b032c1ebd7c63" category="paragraph">營運恢復能力是一種服務類別、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。</block>
+  <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">深入瞭解這項新服務</block>
+  <block id="111e68f453d93697e376aa4b128f9a4c" category="paragraph"><block ref="ab8039366481dc33ac47cc2a37c277c6" category="inline-link-macro-rx"></block>。</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">快速入門</block>
+  <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">先決條件</block>
+  <block id="1da54223aacfae99a4874c0e691e9686" category="sidebar">登入BlueXP上的服務</block>
+  <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">常見問題集</block>
+  <block id="bd061bc82da085cfa0af1ce1250210fe" category="sidebar">使用作業恢復服務</block>
+  <block id="c51a2c08d5209aad63f43c6526df187d" category="sidebar">審查並修正安全問題</block>
+  <block id="55ecbcc86c1df8e0bbccc58434b65675" category="sidebar">自動修正問題</block>
+  <block id="c9705b7c773d6a1ccecd7fb434fd094c" category="sidebar">使用可執行的方針來修正問題</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">部落格與社群</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp社群</block>
+  <block id="e7719a97642051ee358e5d15cf1ab284" category="sidebar">雲端分層部落格</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">雲端網路研討會</block>
+  <block id="56a1a3f59cf0d0d350684ce2a2bc24d2" category="sidebar">營運恢復文件</block>
+  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
+  <block id="dd76577d0fda67d24563883480d82c24" category="sidebar">檢閱安全性問題</block>
+  <block id="fc42475b6d973f576b48ed3139510d1a" category="sidebar">判斷補救狀態</block>
+  <block id="c6c64cb38e97edda8ffa90f94528ff44" category="sidebar">存取BlueXP上的服務</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識與支援</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
+</blocks>

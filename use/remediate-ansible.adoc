@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-ansible.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 您可以檢閱安全風險、並下載可執行的方針、以便修正問題。 
+---
+= 使用Ansible教戰手冊進行補救
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+您可以檢閱安全風險、並下載可執行的方針、以便修正問題。
+
+您可以下載Ansible教戰手冊、這是一款開放原始碼部署系統、可讓您執行組態工作。若要使用Ansible、只要執行教戰手冊檔案、就能使用儲存在同一個目錄中的庫存和輔助程式檔案。
+
+.您需要的產品
+系統必須能夠透過網路存取叢集IP、才能執行Ansible教戰手冊。
+
+.步驟
+. 從BlueXP左側導覽中、選取* Health *>*營運恢復能力*>* Risk Remediation *。
+. 在風險清單中、依「影響層級」欄位排序、以先查看最高風險。
+. 選取風險、然後選取*修正風險*。
+. 若要下載可讓您自行修正問題的教戰手冊、請選取*下載*。
++
+該服務會將「Ansible」方針安裝到您選擇的本地機器上。該教戰手冊會以壓縮檔形式下載、其中包含數個YML檔案。
+
+. 在下載資料夾中找到「Ansible playbook（可執行教戰手冊）」。
+. 執行Ansible教戰手冊：
++
+[listing]
+----
+$ ansible-playbook <playbook.yml>
+----
++
+如需如何使用Ansible教戰手冊的說明、請參閱 https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html["Ansible文件"^]。
+
+. 請遵循本方針中的指示。
+

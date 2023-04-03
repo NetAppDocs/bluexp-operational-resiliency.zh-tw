@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/setup.html 
+keywords: bluexp, operational resiliency, risk remediate 
+summary: 您不需要新增容量或層級的冷資料、也可以選擇目前不需要採取任何行動、並設定提醒提醒、讓自己在30、60或90天之後再次檢查。 
+---
+= 設定作業恢復服務
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+使用營運恢復服務的第一步、是讓環境中的監控工具提供資料。
+
+設定服務包括下列步驟：
+
+* 檢閱 link:../get-started/prerequisites.html["先決條件"] 確保您的環境已就緒
+* 您也可以在使用服務之前、在BlueXP中建立連接器
+* 在使用服務之前、您也可以選擇在BlueXP中探索叢集
+
+
+
+
+== 在藍圖XP中建立連接器
+
+BlueXP Connector包含NetApp ONTAP 支援機器的認證資料、因此營運恢復服務可針對安全風險提供建議、並執行修復作業。
+
+您可以直接在BlueXP中建立連接器、並在作業恢復服務中使用該連接器。或者、您也可以開始查看叢集的程序、並在該程序的中間部署Connector。
+
+若要在使用服務之前在BlueXP中建立連接器、請參閱所述的藍圖XP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何建立連接器"^]。
+
+
+
+== 探索BlueXP中的叢集
+
+設定的一部分涉及識別BlueXP內的叢集名稱、IP、使用者名稱和密碼。
+
+如需相關指示、請參閱所說明的BlueXP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["如何識別叢集"^]。

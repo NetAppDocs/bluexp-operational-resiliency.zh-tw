@@ -1,0 +1,46 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-auto.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 如果您選取「修正」選項、服務就能為您實作補救。 
+---
+= 自動修正問題
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+如果您選取*修正*選項、該服務就能為您實作修正。
+
+.步驟
+. 從BlueXP左側導覽中、選取* Health *>*營運恢復能力*>* Risk Remediation *。
+. 在「風險補救」頁面中、依「影響層級」欄位排序、以先查看最高風險。
+. 選取風險、然後選取*修正風險*。
+. 針對每個叢集、選取*修正*。
++
+視問題而定、系統會顯示相關指示。如果存在BlueXP Connector或已知叢集、則此頁面上的部分選項不會出現。
+
++
+** 如果連接器不存在或尚未啟用、服務會顯示「Create a Connector」（建立連接器）頁面、您可以在其中建立連接器。如果連接器存在、但未處於作用中狀態、則必須在雲端供應商服務中啟用連接器。
++
+請參閱所述的BlueXP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何建立連接器"]。
+
+** 如果叢集不存在、服務會顯示一個頁面、供您識別叢集。
++
+請參閱所說明的藍圖XP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["如何識別叢集"]。
+
+
+
+. 部署連接器並探索叢集之後、請檢閱補救措施。
++
+如果您選取*修正*選項、讓服務為您實作修正、則會出現「檢閱並執行必要的修正」頁面。
+
+. 檢閱風險及其他資訊。
+. 選擇*執行*。
++
+此動作會部署Connector（如果尚未完成）、探索叢集、下載修正程式、並在選取的叢集上自動實作修正程式。
+
+. 要查看修復修復的狀態，請在"Remediation Status（更新狀態）"頁面上記下該叢集名稱。
+

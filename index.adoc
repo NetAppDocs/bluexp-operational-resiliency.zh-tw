@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: 營運恢復能力是一種服務類別、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。使用營運恢復能力的風險補救服務及其自動化的IT作業補救建議、您可以在發生中斷或故障之前、實作建議的補救措施。 
+---
+= 營運恢復服務
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

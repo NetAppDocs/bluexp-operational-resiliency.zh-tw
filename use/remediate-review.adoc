@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-review.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 風險補救服務可識別內部部署ONTAP 的叢集上的安全風險。 
+---
+= 檢閱安全風險問題
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+風險補救服務可識別內部部署ONTAP 的叢集上的安全風險。
+
+審查風險並執行自動化補救、包括下列程序：
+
+* 在BlueXP中建立連接器（如果風險補救服務尚未存在連接器）。
+* 探索叢集（如果該服務尚不存在）。
+* 執行補救或下載可執行的教戰手冊。
+* 檢視修正狀態。
+
+
+.步驟
+. 從BlueXP左側導覽中、選取* Health *>*營運恢復能力*>* Risk Remediation *。
+. 在風險清單中、依「影響層級」欄位排序、以先查看最高風險。
+. 選取風險並查看其他詳細資料。
+. 選擇*修正風險*。
+. 執行下列其中一項：
++
+** 針對每個叢集、選取*修正*。
++
+此動作會自動修正問題（在您選取*執行*以開始修正之後）。繼續 link:../use/remediate-auto.html["自動修正風險問題"]。
+
+** 若要使用可執行的方針自行修正問題、請選取*下載*。繼續 link:../use/remediate-ansible.html["利用可執行的方針來補救風險問題"]。
+
+
+

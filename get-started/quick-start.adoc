@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: get-started/quick-start.html 
+keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
+summary: 只需幾個步驟、即可開始使用NetApp BlueXP作業恢復服務。 
+---
+= 快速啟動營運恢復服務
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+以下是開始使用NetApp BlueXP作業恢復服務所需的步驟總覽。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一"] 檢閱先決條件
+[role="quick-margin-para"]
+link:../get-started/prerequisites.html["確保您的環境符合這些要求"^]。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["二"] 設定作業恢復服務
+[role="quick-margin-para"]
+link:../get-started/setup.html["完成設定服務的步驟"^]。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三"] 接下來呢？
+[role="quick-margin-para"]
+完成服務設定之後、接下來您可以做什麼。
+
+[role="quick-margin-list"]
+* link:../use/remediate-overview.html["審查並修正安全風險問題"^]。
+* link:../use/remediate-auto.html["自動修正"^]。
+* link:../use/remediate-ansible.html["利用可執行的方針來補救"^]。
+* link:../use/remediate-status.html["判斷風險補救狀態"^]。
+

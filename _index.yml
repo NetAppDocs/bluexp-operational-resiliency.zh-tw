@@ -1,0 +1,36 @@
+---
+indexpage:
+  lead: 營運恢復能力是一種服務類別、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。使用營運恢復能力的風險補救服務及其自動化的IT作業補救建議、您可以在發生中斷或故障之前、實作建議的補救措施。
+  tiles:
+  - title: 開始使用
+    links:
+    - title: 瞭解營運恢復服務
+      url: "/get-started/intro.html"
+    - title: 新增功能
+      url: "/release-notes/whats-new.html"
+    - title: 快速入門
+      url: "/get-started/quick-start.html"
+    - title: 先決條件
+      url: "/get-started/prerequisites.html"
+    - title: 登入BlueXP上的服務
+      url: "/get-started/login.html"
+    - title: 常見問題集
+      url: "/get-started/faq.html"
+  - title: 使用作業恢復服務
+    links:
+    - title: 審查並修正安全問題
+      url: "/use/remediate-overview.html"
+    - title: 自動修正問題
+      url: "/use/remediate-auto.html"
+    - title: 使用可執行的方針來修正問題
+      url: "/use/remediate-ansible.html"
+    - title: 判斷風險補救狀態
+      url: "/use/remediate-status.html"
+  - title: 部落格與社群
+    links:
+    - title: NetApp社群
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: 雲端分層部落格
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: 雲端網路研討會
+      url: https://bluexp.netapp.com/events

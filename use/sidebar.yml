@@ -1,0 +1,14 @@
+---
+section: use
+title: 使用作業恢復服務
+entries:
+- title: 審查並修正安全問題
+  url: "/use/remediate-overview.html"
+- title: 檢閱安全性問題
+  url: "/use/remediate-review.html"
+- title: 自動修正問題
+  url: "/use/remediate-auto.html"
+- title: 使用可執行的方針來修正問題
+  url: "/use/remediate-ansible.html"
+- title: 判斷補救狀態
+  url: "/use/remediate-status.html"
