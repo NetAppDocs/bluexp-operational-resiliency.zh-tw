@@ -12,7 +12,7 @@ summary: 如果您選取「修正」選項、服務就能為您實作補救。
 
 
 [role="lead"]
-如果您在 BlueXP 操作恢復服務中選擇了 *Remedate* 選項，則該服務可以爲您實施修復。
+如果您在 BlueXP 作業恢復服務中選取 * 修正 * 選項、服務就能為您實作修正。
 
 .步驟
 . 從BlueXP左側導覽中、選取* Health *>*營運恢復能力*>* Risk Remediation *。

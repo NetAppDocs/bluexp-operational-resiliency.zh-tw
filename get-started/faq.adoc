@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: operational resiliency faq, risk remediation frequently asked questions 
 summary: 如果您只是想要快速回答問題、這個常見問題集就能幫上忙。 
 ---
-= 作業恢復服務的常見問題集
+= 營運恢復服務的常見問題集
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,9 +16,9 @@ summary: 如果您只是想要快速回答問題、這個常見問題集就能�
 
 
 
-== 存取作業恢復服務
+== 存取營運恢復服務
 
-*什麼是BlueXP營運恢復URL？*
+* 什麼是 BlueXP 作業恢復 URL ？ *
 
 對於 URL 、請在瀏覽器中輸入： https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^]
 
@@ -26,6 +26,6 @@ summary: 如果您只是想要快速回答問題、這個常見問題集就能�
 
 == 授權
 
-*您是否需要授權才能使用作業恢復服務？*
+* 您是否需要授權才能使用營運恢復服務？ *
 
 不需要 NetApp 授權檔案（ NLF ）。

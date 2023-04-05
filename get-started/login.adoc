@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/login.html 
 keywords: bluexp login, risk remediation log in, operational resiliency 
-summary: 存取BlueXP中的服務、開始使用作業恢復服務。 
+summary: 存取 BlueXP 中的服務、開始使用營運恢復服務。 
 ---
-= 存取BlueXP中的作業恢復服務
+= 存取 BlueXP 中的營運恢復服務
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: 存取BlueXP中的服務、開始使用作業恢復服務。
 
 
 [role="lead"]
-您可以登入NetApp BlueXP來使用營運恢復服務。
+您可以登入 NetApp BlueXP 來使用營運恢復服務。
 
 若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["深入瞭解登入"^]。
 

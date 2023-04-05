@@ -1,6 +1,6 @@
 ---
 indexpage:
-  lead: 營運恢復能力是一種服務類別、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。使用營運恢復能力的風險補救服務及其自動化的IT作業補救建議、您可以在發生中斷或故障之前、實作建議的補救措施。
+  lead: 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。
   tiles:
   - title: 開始使用
     links:
@@ -16,7 +16,7 @@ indexpage:
       url: "/get-started/login.html"
     - title: 常見問題集
       url: "/get-started/faq.html"
-  - title: 使用作業恢復服務
+  - title: 使用營運恢復服務
     links:
     - title: 審查並修正安全問題
       url: "/use/remediate-overview.html"

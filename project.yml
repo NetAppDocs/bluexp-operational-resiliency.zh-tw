@@ -1,6 +1,7 @@
 ---
 settings:
   name: Operational resiliency
+  platform: cloud
   internal:
     pdf_enabled: true
   prod:

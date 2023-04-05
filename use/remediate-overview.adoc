@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/remediate-overview.html 
 keywords: operational resiliency, remediate, risk remediation, security risk 
-summary: NetApp BlueXP營運恢復服務使用AI來判斷安全風險。 
+summary: NetApp BlueXP 營運恢復服務使用 AI 來判斷安全風險。 
 ---
 = 審查並修正安全風險問題
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: NetApp BlueXP營運恢復服務使用AI來判斷安全風險。
 
 
 [role="lead"]
-作業恢復服務可讓您檢閱與韌體問題相關的安全風險、並實作修復。
+營運恢復服務可讓您檢閱與韌體問題相關的安全風險、並實作修正。
 
 系統或節點層級提供建議。
 
@@ -22,7 +22,7 @@ summary: NetApp BlueXP營運恢復服務使用AI來判斷安全風險。
 * 下載可執行的方針、這是開放原始碼部署系統、可讓您執行組態工作、並執行方針中建議的行動。
 
 
-使用作業恢復服務、您可以達成下列目標：
+使用營運恢復服務、您可以達成下列目標：
 
 * link:../use/remediate-review.html["檢閱安全風險問題"]
 * link:../use/remediate-auto.html["自動修正"]
