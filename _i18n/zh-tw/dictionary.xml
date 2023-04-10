@@ -80,7 +80,6 @@
   <block id="c08c16ebaae52a216a6bdc1f3d6a4f8c" category="doc">營運恢復能力的先決條件</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">首先、請確認您的營運環境、登入、網路存取和網頁瀏覽器是否準備就緒。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">您的環境必須符合所有 BlueXP 需求、包括從網路瀏覽器登入和網路存取。</block>
-  <block id="5b13c2584f8e7be6ddae81fa76b103bc" category="inline-link">入門檢查清單</block>
   <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">數位顧問文件</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">您必須擁有叢集的存取認證。</block>
   <block id="8996677d91a175f8986c9fb086d0a019" category="summary">您不需要新增容量或層級冷資料、現在可以選擇不需要採取任何行動、並設定提醒、讓自己在 30 、 60 或 90 天之後再次檢查。</block>
@@ -133,7 +132,6 @@
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">使用自我支援選項</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">這些選項可供免費使用、一天24小時、一週7天：</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知識庫</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">請搜尋BlueXP知識庫、找出有助於疑難排解問題的文章。</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社群</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
@@ -308,7 +306,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
   <block id="512d7187e11e6b2bd094632645a845b7" category="paragraph">請參閱所述的BlueXP文件<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
   <block id="f164503793033fa06dba0ecdec3a5be1" category="paragraph">請參閱所說明的藍圖XP文件<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>。</block>
-  <block id="641d85e3392af705f9d34f2fa609a57b" category="paragraph">請參閱 BlueXP<block ref="1295fbde6ecbfd0b1a74b2320f542e01" category="inline-link-rx"></block>。</block>
   <block id="93dc9f8dd242c418b4365801f4f34021" category="list-text">此服務要求所有叢集均由Digital Advisor（前身Active IQ Digital Advisor 為《The Digital Advisor》）監控。請參閱<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>。</block>
   <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>。</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
@@ -349,4 +346,8 @@
   <block id="822e3a5523be56be4343224274f22c3b" category="paragraph">如果您在 BlueXP 作業恢復服務中選取 * 修正 * 選項、服務就能為您實作修正。</block>
   <block id="6d04364204b362ee365b97c4ec08a1d8" category="sidebar">營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
   <block id="21d892a35096adc6364a2a04c3d6a011" category="sidebar">使用營運恢復服務</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP 快速入門</block>
+  <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP 網路資訊</block>
+  <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">請參閱<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> 和<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>。</block>
 </blocks>
