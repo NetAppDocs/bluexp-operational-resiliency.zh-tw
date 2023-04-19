@@ -24,7 +24,6 @@
   <block id="280ad2a6c6ac0a29776201ab7eb71cde" category="list-text">針對每個叢集、選取*修正*。</block>
   <block id="2ff7e6e819d1c3351da49fb9076ea7f6" category="paragraph">視問題而定、系統會顯示相關指示。如果存在BlueXP Connector或已知叢集、則此頁面上的部分選項不會出現。</block>
   <block id="216a481d8cb3895627e1a95211130d00" category="list-text">如果連接器不存在或尚未啟用、服務會顯示「Create a Connector」（建立連接器）頁面、您可以在其中建立連接器。如果連接器存在、但未處於作用中狀態、則必須在雲端供應商服務中啟用連接器。</block>
-  <block id="d29bda09bea50f3d6b0e9d9d61015179" category="inline-link">如何建立連接器</block>
   <block id="82a3b3353123f51e6efb1de319a4a3af" category="list-text">如果叢集不存在、服務會顯示一個頁面、供您識別叢集。</block>
   <block id="fd7ba781ed31347905680b56f58f3835" category="inline-link">如何識別叢集</block>
   <block id="dc2ee7c9bfe56a12af0b4b38d766e214" category="list-text">部署連接器並探索叢集之後、請檢閱補救措施。</block>
@@ -38,10 +37,8 @@
   <block id="3b7f158e5588dd8c8fbd83e64644ead3" category="list-text">從BlueXP左側導覽中、選取* Health *&gt;*營運恢復能力*&gt;*修正狀態*。</block>
   <block id="c836b3c3af1e3ae322bae2582783e7fa" category="paragraph">此時會顯示「修正狀態」頁面。</block>
   <block id="340aea35d361c9684857dffdfb0d4e34" category="list-text">若要查看問題的詳細資料、請選取問題加以展開。</block>
-  <block id="3f713c8f4e664d48eacc8df4f2395ab2" category="summary">風險補救服務可識別內部部署ONTAP 的叢集上的安全風險。</block>
   <block id="71dfe4aa697335a7f919f97a8273c0b2" category="doc">檢閱安全風險問題</block>
   <block id="8ced7aef65cbf7f975ce05495aaa7b5a" category="paragraph">審查風險並執行自動化補救、包括下列程序：</block>
-  <block id="e58b02e46b4a2ae158eeea3e4be06da2" category="list-text">在BlueXP中建立連接器（如果風險補救服務尚未存在連接器）。</block>
   <block id="79ce14dc5f77cf8e0b4406ad7fa1b113" category="list-text">探索叢集（如果該服務尚不存在）。</block>
   <block id="fc679714d6de762a8709e88fd77d9dd3" category="list-text">執行補救或下載可執行的教戰手冊。</block>
   <block id="3d4a0bdc7753224ebf0b57c73a661a15" category="list-text">檢視修正狀態。</block>
@@ -76,13 +73,9 @@
   <block id="c3ee5ddf91e65773d3e9d27f9e627350" category="inline-link">Ansible文件</block>
   <block id="7d6268b9dc6ee19857991d4f88f50bdf" category="paragraph">如需如何使用Ansible教戰手冊的說明、請參閱<block ref="2f1345580118e2956f2276fe8e08e989" category="inline-link-rx"></block>。</block>
   <block id="30a894e91a8af680e08e44c220c86292" category="list-text">請遵循本方針中的指示。</block>
-  <block id="fd6bebcfb34c38b868e5a7e0dd8fde4e" category="doc">營運恢復服務</block>
-  <block id="c08c16ebaae52a216a6bdc1f3d6a4f8c" category="doc">營運恢復能力的先決條件</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">首先、請確認您的營運環境、登入、網路存取和網頁瀏覽器是否準備就緒。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">您的環境必須符合所有 BlueXP 需求、包括從網路瀏覽器登入和網路存取。</block>
-  <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">數位顧問文件</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">您必須擁有叢集的存取認證。</block>
-  <block id="8996677d91a175f8986c9fb086d0a019" category="summary">您不需要新增容量或層級冷資料、現在可以選擇不需要採取任何行動、並設定提醒、讓自己在 30 、 60 或 90 天之後再次檢查。</block>
   <block id="aeef00e38ed51f22706d62c2a0ab5668" category="paragraph">設定服務包括下列步驟：</block>
   <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">先決條件</block>
   <block id="230a6470f3b56faa66817a00760e17ee" category="list-text">檢閱 <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 確保您的環境已就緒</block>
@@ -90,7 +83,6 @@
   <block id="8b6359316fcd0e79bcc63e44fde4f177" category="list-text">在使用服務之前、您也可以選擇在BlueXP中探索叢集</block>
   <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">在 BlueXP 中建立 Connector</block>
   <block id="12c974d821c2a657f06d04bb173ce05d" category="paragraph">BlueXP Connector包含NetApp ONTAP 支援機器的認證資料、因此營運恢復服務可針對安全風險提供建議、並執行修復作業。</block>
-  <block id="a5aa4a9277b83c0c529e9cebd0e88464" category="paragraph">若要在使用服務之前在BlueXP中建立連接器、請參閱所述的藍圖XP文件<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
   <block id="8cb57f3692a9a95873b528375ca802ad" category="section-title">探索 BlueXP 中的叢集</block>
   <block id="6ac16908cedf4f30facecaf3b473c7de" category="paragraph">部分設定包括在 BlueXP 中識別叢集名稱、 IP 、使用者名稱和密碼。</block>
   <block id="77edd12846ceca08a63e1059865b1044" category="paragraph">如需相關指示、請參閱所說明的BlueXP文件<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>。</block>
@@ -283,8 +275,6 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新功能</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023 年 4 月 2 日</block>
-  <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">深入瞭解這項新服務</block>
-  <block id="111e68f453d93697e376aa4b128f9a4c" category="paragraph"><block ref="ab8039366481dc33ac47cc2a37c277c6" category="inline-link-macro-rx"></block>。</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">快速入門</block>
@@ -297,57 +287,67 @@
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">部落格與社群</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp社群</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">雲端網路研討會</block>
-  <block id="56a1a3f59cf0d0d350684ce2a2bc24d2" category="sidebar">營運恢復文件</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
   <block id="dd76577d0fda67d24563883480d82c24" category="sidebar">檢閱安全性問題</block>
   <block id="fc42475b6d973f576b48ed3139510d1a" category="sidebar">判斷補救狀態</block>
-  <block id="c6c64cb38e97edda8ffa90f94528ff44" category="sidebar">存取 BlueXP 上的服務</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識與支援</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
-  <block id="512d7187e11e6b2bd094632645a845b7" category="paragraph">請參閱所述的BlueXP文件<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
   <block id="f164503793033fa06dba0ecdec3a5be1" category="paragraph">請參閱所說明的藍圖XP文件<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>。</block>
-  <block id="93dc9f8dd242c418b4365801f4f34021" category="list-text">此服務要求所有叢集均由Digital Advisor（前身Active IQ Digital Advisor 為《The Digital Advisor》）監控。請參閱<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>。</block>
   <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>。</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
   <block id="8bfe71eed258e3f01fe6e2704d8b996c" category="paragraph">對於 URL 、請在瀏覽器中輸入：<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block></block>
-  <block id="28ec4fd398ec8aee5e3f375cd2625519" category="summary">營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
   <block id="40742dd64edea269092e2b0b612101fe" category="summary">驗證您的環境、網路存取、登入和網頁瀏覽器的支援、以開始使用 BlueXP 作業恢復服務。</block>
   <block id="5893f4c01eddd46fe51d24d7846dbf42" category="paragraph">若要使用營運恢復服務、您應確保環境符合所有需求。</block>
-  <block id="71758daba0a46e3d46a7ebca6c89cc94" category="list-text">雖然不是必要的、但如果 BlueXP Connector 已就緒並已啟用、而且 ONTAP 系統已被發現、則會很有幫助。否則、營運恢復服務會引導您完成這些程序。</block>
-  <block id="c5e325373de16202bbba45fab31f6350" category="doc">設定營運恢復服務</block>
-  <block id="143752699168c365fbf298ed2e1e3620" category="paragraph">使用營運恢復服務的第一步是讓環境中的監控工具提供資料。</block>
   <block id="38be59bd2061124d4a321a548ce7ca38" category="paragraph">您可以直接在 BlueXP 中建立 Connector 、並在營運恢復服務中使用該 Connector 。或者、您也可以開始查看叢集的程序、並在該程序的中間部署Connector。</block>
-  <block id="6000632e15fbf49899a72b1afe33e0ed" category="summary">營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 作業修正建議、在發生中斷或故障之前實作建議的修正。</block>
-  <block id="eee45265361093339d7654a8dc6c5682" category="doc">瞭解營運恢復服務</block>
-  <block id="f9534b9234d404c812291d7f2144f0d5" category="paragraph">營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
-  <block id="38c52928b11db521d3490652a91a0126" category="paragraph">此 BlueXP 服務根據 NetApp 數位顧問（前身為 Active IQ ）指南、對 NetApp ONTAP 叢集進行修正。服務會偵測安全性弱點、例如韌體和軟體組態問題。</block>
-  <block id="7989549020ecda7466687ba0003a7c3c" category="section-title">使用營運恢復服務的優點</block>
-  <block id="81f69e875e08770a35c9cc72ae30cfb6" category="paragraph">營運恢復服務提供下列優點：</block>
-  <block id="bd9223d646fd54dbdf3b7d02884434c3" category="section-title">您可以使用營運恢復服務執行哪些工作</block>
   <block id="8946ce3007f7028cd8e61a280f8aeef8" category="paragraph">使用營運恢復服務、您可以達成下列目標：</block>
-  <block id="2211f87bf51b6ffe261b7b579b653be2" category="paragraph">營運恢復服務可分析內部部署的 NetApp ONTAP 叢集。</block>
   <block id="05b6fc411359072e39963417d3717fb5" category="summary">存取 BlueXP 中的服務、開始使用營運恢復服務。</block>
-  <block id="fd4a5b6fde0da08fa53b250835acae31" category="doc">存取 BlueXP 中的營運恢復服務</block>
-  <block id="4a92b7c1cf6429306da39555bcc26695" category="paragraph">您可以登入 NetApp BlueXP 來使用營運恢復服務。</block>
   <block id="92100e0b26cf551afa26cc89d4914d49" category="summary">只需幾個步驟、即可開始使用 NetApp BlueXP 作業恢復服務。</block>
-  <block id="eee24bf77531bff771aeb058c9e172f7" category="doc">快速啟動營運恢復服務</block>
-  <block id="1aa4a8920a804919ca13b046e0e8293d" category="paragraph">以下概述開始使用 NetApp BlueXP 作業恢復服務所需的步驟。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。</block>
   <block id="6fa341bb06fb8b0742ee2ff04464fc33" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 設定營運恢復服務</block>
-  <block id="68e11e4581d2273aca596d14309a121b" category="doc">營運恢復服務的常見問題集</block>
-  <block id="0e034193ec5332d2eaba537464996f8a" category="section-title">存取營運恢復服務</block>
   <block id="f5af837941911e97d098417ff6c88e26" category="paragraph">* 什麼是 BlueXP 作業恢復 URL ？ *</block>
-  <block id="96132a91ebcd8843576c5d3b88b25986" category="paragraph">* 您是否需要授權才能使用營運恢復服務？ *</block>
-  <block id="0b8542a5ea2780ed861f8e359d3aa42c" category="summary">瞭解營運恢復服務的新功能。</block>
-  <block id="d3d5bae1dc5637cc2d16caf23d0426d2" category="paragraph">您可以使用新的營運恢復服務及其自動化 IT 作業風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
   <block id="ae74e3db3615f676968300b7cc6e8ae1" category="paragraph">營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。</block>
   <block id="e1287a8e494def55e5ee82def5682265" category="summary">NetApp BlueXP 營運恢復服務使用 AI 來判斷安全風險。</block>
-  <block id="ba564dc3a6bd98167511b58b61a61a70" category="paragraph">營運恢復服務可讓您檢閱與韌體問題相關的安全風險、並實作修正。</block>
   <block id="c73a660d4a0630849f0ae902550fada8" category="paragraph">使用營運恢復服務、您可以達成下列目標：</block>
-  <block id="822e3a5523be56be4343224274f22c3b" category="paragraph">如果您在 BlueXP 作業恢復服務中選取 * 修正 * 選項、服務就能為您實作修正。</block>
-  <block id="6d04364204b362ee365b97c4ec08a1d8" category="sidebar">營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
-  <block id="21d892a35096adc6364a2a04c3d6a011" category="sidebar">使用營運恢復服務</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP 快速入門</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP 網路資訊</block>
   <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">請參閱<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> 和<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>。</block>
+  <block id="271a4aecd4217c716176f150130e85ab" category="summary">BlueXP 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
+  <block id="dd7c710b103a018a2046baa2f5052ed9" category="doc">BlueXP 作業恢復能力</block>
+  <block id="e6f9a71f2431a6f1340c157d23dabee6" category="doc">BlueXP 作業恢復能力先決條件</block>
+  <block id="4047eed73fb147faca2a60e49cd11bd3" category="inline-link">BlueXP 數位顧問文件</block>
+  <block id="79489f774fae583d2ef44553677325d2" category="list-text">此服務要求 BlueXP 數位顧問（ Active IQ ）監控所有叢集、這需要在資產上啟用 AutoSupport 。請參閱<block ref="28ad866a93984325ed92c672458a0234" category="inline-link-rx"></block>。</block>
+  <block id="b195ee77502e843664bcba163b60d4ad" category="list-text">若要自動補救、需要 BlueXP Connector 。如果 BlueXP Connector 已就緒並已啟用、且在您使用 BlueXP 操作恢復功能啟動修復之前、已探索到 ONTAP 系統、則此功能非常實用。如果 Connector 未就緒、則營運恢復服務會引導您完成這些程序。如果您改用 Ansible 檔案進行修正、則不需要 BlueXP Connector 。</block>
+  <block id="5396aec18ef871c7c8fb5f3e71071da8" category="summary">使用 BlueXP 營運恢復服務的第一步、是讓環境中的監控工具提供資料。</block>
+  <block id="b7044cbcf51431684747ed82ec363437" category="doc">設定 BlueXP 作業恢復能力</block>
+  <block id="235b57428dae6dfa5f8b025c2ee2bc8b" category="paragraph">使用 BlueXP 營運恢復能力的第一步、是讓環境中的監控工具提供資料。</block>
+  <block id="3f624a766d0a17837224c7064f0a0e10" category="inline-link">如何建立 Connector</block>
+  <block id="c5f0acc09d423dc51382ed54c88e4df7" category="paragraph">若要在使用服務之前在BlueXP中建立連接器、請參閱所述的藍圖XP文件<block ref="b4ada8616e90b2199887f57c6ea93933" category="inline-link-rx"></block>。</block>
+  <block id="490d590118714dd56e7c49c9dc1016d6" category="summary">BlueXP 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 作業修正建議、在發生中斷或故障之前實作建議的修正。</block>
+  <block id="e4062e43ecd3e9b66ed3efe3150aa1d3" category="doc">瞭解 BlueXP 作業恢復能力</block>
+  <block id="5d84361178f8487227dcab9eb32e9312" category="paragraph">BlueXP 作業恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
+  <block id="6b5aa1fcaf53fdb7faa3abc66c3936e3" category="paragraph">這項 BlueXP 服務會根據 BlueXP 數位顧問（ Active IQ ）指南、對 NetApp ONTAP 叢集進行修正。服務會偵測安全性弱點、例如韌體和軟體組態問題。</block>
+  <block id="18096d7d55c678c44a691f68acf1192b" category="section-title">使用 BlueXP 作業恢復能力的優點</block>
+  <block id="bd92f54b050c6c9326ecedaec0f8f909" category="paragraph">BlueXP 作業恢復能力具有下列優點：</block>
+  <block id="30b514febdd42261d1a1daa3d54d14d0" category="section-title">BlueXP 作業恢復能力的用途</block>
+  <block id="6cec8c0895fd8bd38aa404d30f8a1a94" category="paragraph">BlueXP 營運恢復能力分析內部部署的 NetApp ONTAP 叢集。</block>
+  <block id="6f7b158d0662fd423bbeceb4a59992b4" category="doc">存取 BlueXP 作業恢復能力</block>
+  <block id="d33320e0d61928503491f6a66c6c3f74" category="paragraph">您可以登入 NetApp BlueXP 、以使用 BlueXP 的營運恢復能力。</block>
+  <block id="5932f55918cac24333bb670e7bd6e70c" category="doc">BlueXP 作業恢復能力的快速入門</block>
+  <block id="d4b178e389a7147fc55a2abbf0c6b522" category="paragraph">以下概述開始使用 BlueXP 作業恢復能力所需的步驟。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。</block>
+  <block id="182b2252eb85e4fbff9f05c5ac86ed34" category="doc">BlueXP 作業恢復能力的常見問題集</block>
+  <block id="3fd722e00f8492b30e9db6584c57c269" category="section-title">存取 BlueXP 作業恢復能力</block>
+  <block id="6b69dd61b618443c7bca85dcf62804b1" category="paragraph">* 您是否需要使用 BlueXP 作業恢復能力的授權？ *</block>
+  <block id="1837fb593fca116cb417fa9ca07091c1" category="summary">瞭解 BlueXP 作業恢復能力的新功能。</block>
+  <block id="0a6c67d82675687d876fd5170168f147" category="paragraph">您可以使用新的 BlueXP 作業恢復服務及其自動化 IT 作業風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
+  <block id="070849913b65c4cb130cf632f0ac2008" category="inline-link-macro">深入瞭解 BlueXP 作業恢復能力</block>
+  <block id="6bea546ba36c0c8c8bed5d22ed6af63d" category="paragraph"><block ref="d51dda3e944cc19bf96c07e1874304d0" category="inline-link-macro-rx"></block>。</block>
+  <block id="b2fe0c86b5c0cf123267ee8c32995320" category="doc">使用 Ansible 教戰手冊修正風險</block>
+  <block id="47769f03e5a67bd436f643859b1abf03" category="summary">BlueXP 作業恢復能力可識別內部部署 ONTAP 叢集上的安全風險。</block>
+  <block id="a944ed57d680115990d1f9d6d5a82122" category="list-text">在 BlueXP 中建立連接器（如果操作恢復服務尚未存在連接器）。</block>
+  <block id="ea58d8712830a595b952e4a5ec788d2d" category="paragraph">BlueXP 作業恢復能力可讓您檢閱與韌體問題相關的安全風險、並實作修正。</block>
+  <block id="b8b85d3fc9ddf093ecb8a01c5d4a08ee" category="paragraph">如果您在 BlueXP 操作恢復能力中選擇了 *Remedate* 選項，則該服務可以爲您實施補救措施。</block>
+  <block id="631fbc17fa0f995206eaf7677110248d" category="paragraph">請參閱所述的BlueXP文件<block ref="b4ada8616e90b2199887f57c6ea93933" category="inline-link-rx"></block>。</block>
+  <block id="93ac67116613ce3cad72da49b677b6ca" category="sidebar">BlueXP 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
+  <block id="d72f82e08cbacc9277e47af1541a6b20" category="sidebar">使用 BlueXP 作業恢復能力</block>
+  <block id="d7bea96c36aec233a67eb46f844f1cd2" category="sidebar">BlueXP 作業恢復能力文件</block>
 </blocks>

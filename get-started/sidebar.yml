@@ -2,15 +2,15 @@
 section: get-started
 title: 開始使用
 entries:
-- title: 瞭解營運恢復服務
+- title: 瞭解 BlueXP 作業恢復能力
   url: "/get-started/intro.html"
 - title: 先決條件
   url: "/get-started/prerequisites.html"
 - title: 快速入門
   url: "/get-started/quick-start.html"
-- title: 設定營運恢復服務
+- title: 設定 BlueXP 作業恢復能力
   url: "/get-started/setup.html"
-- title: 存取 BlueXP 上的服務
+- title: 存取 BlueXP 作業恢復能力
   url: "/get-started/login.html"
 - title: 常見問題集
   url: "/get-started/faq.html"

@@ -1,10 +1,11 @@
 ---
 indexpage:
-  lead: 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。
+  lead: BlueXP 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化
+    IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。
   tiles:
   - title: 開始使用
     links:
-    - title: 瞭解營運恢復服務
+    - title: 瞭解 BlueXP 作業恢復能力
       url: "/get-started/intro.html"
     - title: 新增功能
       url: "/release-notes/whats-new.html"
@@ -16,7 +17,7 @@ indexpage:
       url: "/get-started/login.html"
     - title: 常見問題集
       url: "/get-started/faq.html"
-  - title: 使用營運恢復服務
+  - title: 使用 BlueXP 作業恢復能力
     links:
     - title: 審查並修正安全問題
       url: "/use/remediate-overview.html"

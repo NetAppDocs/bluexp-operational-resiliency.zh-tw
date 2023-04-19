@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: operational resiliency faq, operational resiliency frequently asked questions, firmware risks 
-summary: 瞭解營運恢復服務的新功能。 
+summary: 瞭解 BlueXP 作業恢復能力的新功能。 
 ---
 = 新功能
 :hardbreaks:
@@ -12,14 +12,14 @@ summary: 瞭解營運恢復服務的新功能。
 
 
 [role="lead"]
-瞭解營運恢復服務的新功能。
+瞭解 BlueXP 作業恢復能力的新功能。
 
 
 
 == 2023 年 4 月 2 日
 
-您可以使用新的營運恢復服務及其自動化 IT 作業風險補救建議、在發生中斷或故障之前實作建議的修正。
+您可以使用新的 BlueXP 作業恢復服務及其自動化 IT 作業風險補救建議、在發生中斷或故障之前實作建議的修正。
 
 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。
 
-link:https://docs.netapp.com/us-en/bluexp-operational-resiliency/get-started/intro.html["深入瞭解這項新服務"]。
+link:https://docs.netapp.com/us-en/bluexp-operational-resiliency/get-started/intro.html["深入瞭解 BlueXP 作業恢復能力"]。

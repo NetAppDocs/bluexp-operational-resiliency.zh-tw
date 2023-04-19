@@ -4,7 +4,7 @@ permalink: get-started/quick-start.html
 keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
 summary: 只需幾個步驟、即可開始使用 NetApp BlueXP 作業恢復服務。 
 ---
-= 快速啟動營運恢復服務
+= BlueXP 作業恢復能力的快速入門
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: 只需幾個步驟、即可開始使用 NetApp BlueXP 作業恢復服�
 
 
 [role="lead"]
-以下概述開始使用 NetApp BlueXP 作業恢復服務所需的步驟。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。
+以下概述開始使用 BlueXP 作業恢復能力所需的步驟。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一"] 檢閱先決條件
 [role="quick-margin-para"]

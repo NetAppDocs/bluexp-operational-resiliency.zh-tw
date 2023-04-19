@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/remediate-review.html 
 keywords: bluexp, operational resiliency, remediate, security risk remediation 
-summary: 風險補救服務可識別內部部署ONTAP 的叢集上的安全風險。 
+summary: BlueXP 作業恢復能力可識別內部部署 ONTAP 叢集上的安全風險。 
 ---
 = 檢閱安全風險問題
 :hardbreaks:
@@ -12,11 +12,11 @@ summary: 風險補救服務可識別內部部署ONTAP 的叢集上的安全風�
 
 
 [role="lead"]
-風險補救服務可識別內部部署ONTAP 的叢集上的安全風險。
+BlueXP 作業恢復能力可識別內部部署 ONTAP 叢集上的安全風險。
 
 審查風險並執行自動化補救、包括下列程序：
 
-* 在BlueXP中建立連接器（如果風險補救服務尚未存在連接器）。
+* 在 BlueXP 中建立連接器（如果操作恢復服務尚未存在連接器）。
 * 探索叢集（如果該服務尚不存在）。
 * 執行補救或下載可執行的教戰手冊。
 * 檢視修正狀態。

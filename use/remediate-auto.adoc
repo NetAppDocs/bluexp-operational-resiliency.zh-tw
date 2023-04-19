@@ -12,7 +12,7 @@ summary: 如果您選取「修正」選項、服務就能為您實作補救。
 
 
 [role="lead"]
-如果您在 BlueXP 作業恢復服務中選取 * 修正 * 選項、服務就能為您實作修正。
+如果您在 BlueXP 操作恢復能力中選擇了 *Remedate* 選項，則該服務可以爲您實施補救措施。
 
 .步驟
 . 從BlueXP左側導覽中、選取* Health *>*營運恢復能力*>* Risk Remediation *。
@@ -25,7 +25,7 @@ summary: 如果您選取「修正」選項、服務就能為您實作補救。
 +
 ** 如果連接器不存在或尚未啟用、服務會顯示「Create a Connector」（建立連接器）頁面、您可以在其中建立連接器。如果連接器存在、但未處於作用中狀態、則必須在雲端供應商服務中啟用連接器。
 +
-請參閱所述的BlueXP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何建立連接器"^]。
+請參閱所述的BlueXP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何建立 Connector"^]。
 
 ** 如果叢集不存在、服務會顯示一個頁面、供您識別叢集。
 +
