@@ -18,7 +18,7 @@ summary: 驗證您的環境、網路存取、登入和網頁瀏覽器的支援�
 
 * 您的環境必須符合所有 BlueXP 需求、包括從網路瀏覽器登入和網路存取。
 +
-請參閱 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html["BlueXP 快速入門"^] 和 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html["BlueXP 網路資訊"^]。
+請參閱 https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["BlueXP 快速入門"^] 和 https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["BlueXP 網路資訊"^]。
 
 * 此服務要求 BlueXP 數位顧問（ Active IQ ）監控所有叢集、這需要在資產上啟用 AutoSupport 。請參閱 https://docs.netapp.com/us-en/active-iq/index.html["BlueXP 數位顧問文件"^]。
 * 您必須擁有叢集的存取認證。

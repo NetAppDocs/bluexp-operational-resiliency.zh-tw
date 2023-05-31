@@ -14,7 +14,7 @@ summary: 存取 BlueXP 中的服務、開始使用營運恢復服務。
 [role="lead"]
 您可以登入 NetApp BlueXP 、以使用 BlueXP 的營運恢復能力。
 
-若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["深入瞭解登入"^]。
+若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["深入瞭解登入"^]。
 
 .步驟
 . 開啟網頁瀏覽器、前往 https://console.bluexp.netapp.com/["BlueXP主控台"]。

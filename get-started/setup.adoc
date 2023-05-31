@@ -29,7 +29,7 @@ BlueXP Connector包含NetApp ONTAP 支援機器的認證資料、因此營運恢
 
 您可以直接在 BlueXP 中建立 Connector 、並在營運恢復服務中使用該 Connector 。或者、您也可以開始查看叢集的程序、並在該程序的中間部署Connector。
 
-若要在使用服務之前在BlueXP中建立連接器、請參閱所述的藍圖XP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何建立 Connector"^]。
+若要在使用服務之前在BlueXP中建立連接器、請參閱所述的藍圖XP文件 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["如何建立 Connector"^]。
 
 
 
@@ -37,4 +37,4 @@ BlueXP Connector包含NetApp ONTAP 支援機器的認證資料、因此營運恢
 
 部分設定包括在 BlueXP 中識別叢集名稱、 IP 、使用者名稱和密碼。
 
-如需相關指示、請參閱所說明的BlueXP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["如何識別叢集"^]。
+如需相關指示、請參閱所說明的BlueXP文件 https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["如何識別叢集"^]。
