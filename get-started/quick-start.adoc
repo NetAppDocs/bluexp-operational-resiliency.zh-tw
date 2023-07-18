@@ -16,19 +16,19 @@ summary: 只需幾個步驟、即可開始使用 NetApp BlueXP 作業恢復服�
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一"] 檢閱先決條件
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["確保您的環境符合這些要求"^]。
+link:../get-started/prerequisites.html["確保您的環境符合這些要求"]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["二"] 設定營運恢復服務
 [role="quick-margin-para"]
-link:../get-started/setup.html["完成設定服務的步驟"^]。
+link:../get-started/setup.html["完成設定服務的步驟"]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三"] 接下來呢？
 [role="quick-margin-para"]
 完成服務設定後、接下來您可以做些什麼。
 
 [role="quick-margin-list"]
-* link:../use/remediate-overview.html["審查並修正安全風險問題"^]。
-* link:../use/remediate-auto.html["自動修正"^]。
-* link:../use/remediate-ansible.html["利用可執行的方針來補救"^]。
-* link:../use/remediate-status.html["判斷風險補救狀態"^]。
+* link:../use/remediate-overview.html["審查並修正安全風險問題"]。
+* link:../use/remediate-auto.html["自動修正"]。
+* link:../use/remediate-ansible.html["利用可執行的方針來補救"]。
+* link:../use/remediate-status.html["判斷風險補救狀態"]。
 

@@ -94,18 +94,12 @@
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">一</block>
   <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> 檢閱先決條件</block>
   <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">確保您的環境符合這些要求</block>
-  <block id="ced4b743323450a7e7e56480339ef345" category="paragraph"><block ref="3ad9f09af84a8cf38e8d4dc8f0c46658" category="inline-link-macro-rx"></block>。</block>
   <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">二</block>
   <block id="cc6726e02ea7bc25f1ed413652107bdb" category="inline-link-macro">完成設定服務的步驟</block>
-  <block id="8945930be6c7ec09e7411ef60b953505" category="paragraph"><block ref="ee9c1a6028084ebc22aa7d8247808a40" category="inline-link-macro-rx"></block>。</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">三</block>
   <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> 接下來呢？</block>
   <block id="19ceaf81f50456bdfe6fb1329956f3bc" category="paragraph">完成服務設定後、接下來您可以做些什麼。</block>
-  <block id="aa8d0cec3b55028965e2b85d19c7be28" category="list-text"><block ref="1e5b83b9aa813937f4a97f0d9de4eabb" category="inline-link-macro-rx"></block>。</block>
-  <block id="5b827b62bd5c6670127f02a22cdeae4b" category="list-text"><block ref="f6aff0b119f503029db83af3a48d170e" category="inline-link-macro-rx"></block>。</block>
   <block id="2917b1025bbb9c3686b91e471db99651" category="inline-link-macro">利用可執行的方針來補救</block>
-  <block id="daa30aaf6281023aee56e56db8ce96fb" category="list-text"><block ref="a7e3b23a1f3f74fcdbdc771d0ce3464a" category="inline-link-macro-rx"></block>。</block>
-  <block id="88423fe6213085494239f6ce5cbf5e7d" category="list-text"><block ref="b26664155e4669de3894cf4ef5b3d8a0" category="inline-link-macro-rx"></block>。</block>
   <block id="62540663380c02ec00b1e7931e30617d" category="list-text">叢集上的自動化修正程序</block>
   <block id="51bbd775f32eafc27c0054ece81c6916" category="list-text">儀表板中的摘要檢視、顯示每項風險補救的狀態</block>
   <block id="3a9852c45e2e43edbcefa9f74bf72fbb" category="list-text">可讓您追蹤所採取不同行動的記錄</block>
@@ -352,4 +346,10 @@
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">升級Cloud Volumes ONTAP 更新版的更新版</block>
   <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">將 NSS 認證與 BlueXP 帳戶建立關聯、與 BlueXP 使用者登入相關的 NSS 帳戶不同。</block>
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">這些 NSS 認證會與您的特定 BlueXP 帳戶 ID 相關聯。屬於BlueXP帳戶的使用者可以從*支援&gt; nss管理*存取這些認證資料。</block>
+  <block id="717a5758b6ab4bcbf7dd110d67315d1b" category="paragraph"><block ref="5f2949df55f5fd88f90867ab8210f71d" category="inline-link-macro-rx"></block>。</block>
+  <block id="71d2b1553f9753d3664a971692ab2b0c" category="paragraph"><block ref="763893d484556f922db9a77403ac0665" category="inline-link-macro-rx"></block>。</block>
+  <block id="e9a8880ff7e9d2aca2546bc082fda91c" category="list-text"><block ref="b81b3a1559d5c39ae1139e100ddfdefa" category="inline-link-macro-rx"></block>。</block>
+  <block id="3e26fd604e30bfec864cba94243ce7ea" category="list-text"><block ref="64910b3c333d96f1f4e6bd6ba9321283" category="inline-link-macro-rx"></block>。</block>
+  <block id="f1915a31dee9ff415e47088d600a74f0" category="list-text"><block ref="7fc0dda2703297592cd1753d48b71daa" category="inline-link-macro-rx"></block>。</block>
+  <block id="c682746ea99f8e17223230c1c7328ccd" category="list-text"><block ref="206f76bf015b0ee7560944906237a712" category="inline-link-macro-rx"></block>。</block>
 </blocks>
