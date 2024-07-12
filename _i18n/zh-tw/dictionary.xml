@@ -205,8 +205,6 @@
   <block id="201080500e946070a2e4873042507c77" category="paragraph">確認將您的申請提交給NetApp、並建議您建立NetApp 支援網站 一個申請表。</block>
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">請務必複製上述序號欄位使用的帳戶序號（960xxxx）。這將加速帳戶處理。</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此過程中、NetApp應與您聯絡。這是新使用者的一次性就職練習。</block>
-  <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">已知的限制可識別此服務版本不支援的平台、裝置或功能、或是無法與之正確互通。</block>
-  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新功能</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023 年 4 月 2 日</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
@@ -241,8 +239,6 @@
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP 快速入門</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP 網路資訊</block>
-  <block id="271a4aecd4217c716176f150130e85ab" category="summary">BlueXP 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
-  <block id="dd7c710b103a018a2046baa2f5052ed9" category="doc">BlueXP 作業恢復能力</block>
   <block id="e6f9a71f2431a6f1340c157d23dabee6" category="doc">BlueXP 作業恢復能力先決條件</block>
   <block id="4047eed73fb147faca2a60e49cd11bd3" category="inline-link">BlueXP 數位顧問文件</block>
   <block id="79489f774fae583d2ef44553677325d2" category="list-text">此服務要求 BlueXP 數位顧問（ Active IQ ）監控所有叢集、這需要在資產上啟用 AutoSupport 。請參閱<block ref="28ad866a93984325ed92c672458a0234" category="inline-link-rx"></block>。</block>
@@ -355,4 +351,5 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">若要獲得 BlueXP 及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp 使用 Microsoft Entra ID 做為身分識別提供者、提供專為支援與授權所設計的驗證服務。</block>
+  <block id="6cd44b17ed7736e578a73cf34d46ca52" category="sidebar">BlueXP 作業恢復能力文件</block>
 </blocks>
