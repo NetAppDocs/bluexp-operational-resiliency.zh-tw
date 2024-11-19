@@ -20,7 +20,7 @@ summary: 驗證您的環境、網路存取、登入和網頁瀏覽器的支援�
 +
 請參閱 https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["BlueXP 快速入門"^] 和 https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["BlueXP 網路資訊"^]。
 
-* 此服務要求 BlueXP 數位顧問（ Active IQ ）監控所有叢集、這需要在資產上啟用 AutoSupport 。請參閱 https://docs.netapp.com/us-en/active-iq/index.html["BlueXP 數位顧問文件"^]。
+* 此服務要求所有叢集都由 Digital Advisor 監控，這需要在資產上啟用 AutoSupport 。請參閱 https://docs.netapp.com/us-en/active-iq/index.html["數位顧問文件"^]。
 * 您必須擁有叢集的存取認證。
 * 若要自動補救、需要 BlueXP Connector 。如果 BlueXP Connector 已就緒並已啟用、且在您使用 BlueXP 操作恢復功能啟動修復之前、已探索到 ONTAP 系統、則此功能非常實用。如果 Connector 未就緒、則營運恢復服務會引導您完成這些程序。如果您改用 Ansible 檔案進行修正、則不需要 BlueXP Connector 。
 

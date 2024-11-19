@@ -237,8 +237,6 @@
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP 快速入門</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP 網路資訊</block>
   <block id="e6f9a71f2431a6f1340c157d23dabee6" category="doc">BlueXP 作業恢復能力先決條件</block>
-  <block id="4047eed73fb147faca2a60e49cd11bd3" category="inline-link">BlueXP 數位顧問文件</block>
-  <block id="79489f774fae583d2ef44553677325d2" category="list-text">此服務要求 BlueXP 數位顧問（ Active IQ ）監控所有叢集、這需要在資產上啟用 AutoSupport 。請參閱<block ref="28ad866a93984325ed92c672458a0234" category="inline-link-rx"></block>。</block>
   <block id="b195ee77502e843664bcba163b60d4ad" category="list-text">若要自動補救、需要 BlueXP Connector 。如果 BlueXP Connector 已就緒並已啟用、且在您使用 BlueXP 操作恢復功能啟動修復之前、已探索到 ONTAP 系統、則此功能非常實用。如果 Connector 未就緒、則營運恢復服務會引導您完成這些程序。如果您改用 Ansible 檔案進行修正、則不需要 BlueXP Connector 。</block>
   <block id="5396aec18ef871c7c8fb5f3e71071da8" category="summary">使用 BlueXP 營運恢復服務的第一步、是讓環境中的監控工具提供資料。</block>
   <block id="b7044cbcf51431684747ed82ec363437" category="doc">設定 BlueXP 作業恢復能力</block>
@@ -247,7 +245,6 @@
   <block id="490d590118714dd56e7c49c9dc1016d6" category="summary">BlueXP 營運恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 作業修正建議、在發生中斷或故障之前實作建議的修正。</block>
   <block id="e4062e43ecd3e9b66ed3efe3150aa1d3" category="doc">瞭解 BlueXP 作業恢復能力</block>
   <block id="5d84361178f8487227dcab9eb32e9312" category="paragraph">BlueXP 作業恢復能力是一項服務、可協助您分析警示和事件、以維持服務和解決方案的健全狀況、正常運作時間和效能。您可以使用營運恢復服務及其自動化 IT 營運風險補救建議、在發生中斷或故障之前實作建議的修正。</block>
-  <block id="6b5aa1fcaf53fdb7faa3abc66c3936e3" category="paragraph">這項 BlueXP 服務會根據 BlueXP 數位顧問（ Active IQ ）指南、對 NetApp ONTAP 叢集進行修正。服務會偵測安全性弱點、例如韌體和軟體組態問題。</block>
   <block id="18096d7d55c678c44a691f68acf1192b" category="section-title">使用 BlueXP 作業恢復能力的優點</block>
   <block id="bd92f54b050c6c9326ecedaec0f8f909" category="paragraph">BlueXP 作業恢復能力具有下列優點：</block>
   <block id="30b514febdd42261d1a1daa3d54d14d0" category="section-title">BlueXP 作業恢復能力的用途</block>
@@ -353,4 +350,7 @@
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">將 NSS 認證與您的 BlueXP  組織建立關聯、不同於與 BlueXP  使用者登入相關聯的 NSS 帳戶。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">這些 NSS 認證會與您的特定 BlueXP  組織 ID 相關聯。屬於 BlueXP  組織的使用者可從 * 支援 &gt; NSS 管理 * 存取這些認證。</block>
   <block id="ee97d7a6f8cd51410930ad6fd6c7d715" category="doc">BlueXP  營運恢復服務</block>
+  <block id="5837045b4a274916acb6680b003d1c2b" category="paragraph">此 BlueXP  服務會根據 Active IQ 數位顧問（也稱為數位顧問）指南，對 NetApp ONTAP 叢集進行修正。服務會偵測安全性弱點、例如韌體和軟體組態問題。</block>
+  <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">數位顧問文件</block>
+  <block id="d2a40e1969d512b879525670f7f544d5" category="list-text">此服務要求所有叢集都由 Digital Advisor 監控，這需要在資產上啟用 AutoSupport 。請參閱<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>。</block>
 </blocks>
